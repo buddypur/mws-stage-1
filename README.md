@@ -1,7 +1,7 @@
 # mws-stage-1
 It is a restaurant review website developed usinn html,css,js and ajax.It is a mobile-ready web application with offline availability , accessibilty and dynamic design ,used for MWS-stage-1 project
 
-#Update
+# Update
 
 For your convenience we have added start.bat and start2.bat .Start.bat start the server using python3 an start2.bat start the server using python2 so make sure you have python installed.
 
