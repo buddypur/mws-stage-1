@@ -9,5 +9,5 @@ For your convenience we have added start.bat and start2.bat .Start.bat start the
 
 1. In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 3000`.For Python 3.x, you can use `python3 -m http.server 3000`.
 
-2. With your server running, visit the site: `http://localhost:8000` touse the site
+2. With your server running, visit the site: `http://localhost:8000` to use the site
 
