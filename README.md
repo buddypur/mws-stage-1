@@ -11,3 +11,5 @@ For your convenience we have added start.bat and start2.bat .Start.bat start the
 
 2. With your server running, visit the site: `http://localhost:8000` to use the site
 
+# notes 
+map available in online mode only.
